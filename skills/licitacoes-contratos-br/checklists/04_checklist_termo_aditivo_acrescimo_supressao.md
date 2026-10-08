@@ -20,7 +20,7 @@ Este checklist consolida a instrução processual obrigatória para formalizaç�
 | **12** | Consta certidão negativa de impedimentos no CEIS, CNEP, CNJ, CADIN e Lista de Licitantes Inidôneos do TCU para o CNPJ? | art. 156 / art. 161 | [ ] | Consulta unificada de idoneidade da pessoa jurídica. |
 | **13** | Consta certidão negativa de impedimentos no CEIS, CNEP, CNJ, CADIN e TCU para o CPF do sócio-administrador? | art. 156 / art. 161 | [ ] | Consulta dos administradores e sócio majoritário. |
 | **14** | Caso o signatário do aditivo não seja o signatário original do contrato, consta procuração pública com poderes específicos? | Código Civil art. 653 | [ ] | Conferência de poderes de representação contratual. |
-| **15** | Houve conciliação de empenhos e emissão da Declaração de Disponibilidade Orçamentária com a devida dotação? | art. 18, IV / art. 128 / LRF art. 16 | [ ] | Empenho de reforço emitido ou eficácia expressamente condicionada ao empenho prévio. |
+| **15** | Houve conciliação de empenhos e emissão da Declaração de Disponibilidade Orçamentária com a devida dotação? | arts. 105 e 150 / LRF art. 16, II | [ ] | Empenho de reforço emitido ou eficácia expressamente condicionada ao empenho prévio. |
 | **16** | O processo foi instruído com Parecer Jurídico favorável emitido pelo órgão de assessoramento jurídico? | art. 53 | [ ] | Análise prévia da legalidade da minuta de termo aditivo. |
 | **17** | O extrato do Termo Aditivo está programado para publicação no PNCP no prazo legal de 10 dias úteis? | art. 94, II / art. 174 | [ ] | Requisito indispensável para a eficácia do aditamento. |
 
